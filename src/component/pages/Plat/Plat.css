@@ -1,0 +1,35 @@
+.container_plat{
+    margin-left: 17rem;
+}
+.container_plat h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: -1px;
+}
+label{
+    display: block;
+    padding: 15px;
+}
+.btn_plat{
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 14%;
+}
+.table_plat{
+    margin-top: 2%;
+    margin-left: 1%;
+}
+.modif_plat{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+.sup_plat{
+    border: none;
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+.modifier_plat{
+    margin-left: 18rem;
+}

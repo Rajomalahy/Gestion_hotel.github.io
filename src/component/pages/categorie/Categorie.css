@@ -1,0 +1,53 @@
+.container_categorie{
+    margin-left: 17rem;
+}
+.row_modifCategorie{
+    margin-left: 18rem;
+}
+.row_ajoutCategorie h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 2rem;
+}
+.row_ajoutCategorie label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+input{
+    margin-left: 1%;
+    padding: 6px;
+}
+button{
+    margin-left: 1%;
+    padding: 6px;
+    margin: 5px;
+    border-radius: 7px;
+}
+.btn{
+    width: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.liste_categorie{
+    margin-top: 2rem;
+}
+.table_categorie th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.table_categorie td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.modif_cat{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn_cat{
+    border: none;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

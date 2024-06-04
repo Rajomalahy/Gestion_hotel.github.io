@@ -1,0 +1,43 @@
+.table{
+    margin-left: 17rem;
+    margin-top: 2rem;
+}
+.table_ajout label{
+    margin-left: 1%;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1%;
+}
+.btn_table{
+    width: 9%;
+    margin-left: 1%;
+}
+button{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 16px
+}
+.table_table{
+    margin-top: 2%;
+}
+table th{
+    font-size: 15px;
+}
+table td{
+    font-size: 14px;
+}
+.modiftable_action{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.suptable_action{
+    border: none;
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+}
+.modifier_table{
+    margin-left: 18rem;
+}

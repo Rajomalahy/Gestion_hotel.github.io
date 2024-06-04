@@ -1,0 +1,6 @@
+.container_statistique{
+    margin-left: 16rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
